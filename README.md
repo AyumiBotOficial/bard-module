@@ -1,2 +1,4 @@
-# bard-module
-Módulo Bard (Novo Gemini)
+# Bard Módulo
+• `Bard (Novo Gemini)`
+• `Atualmente Não Lê Imagens`
+
